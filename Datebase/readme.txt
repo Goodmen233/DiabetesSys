@@ -1,0 +1,1 @@
+在sql server创建一个Diabetes的数据库，将脚本文件导入
